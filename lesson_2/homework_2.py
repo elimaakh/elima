@@ -8,7 +8,6 @@
 # print(type(b))
 # print(type(x))
 # print(type(y))
-from ctypes import pythonapi
 
 # задание 2
 # num1 = 3
